@@ -1,0 +1,4 @@
+inst 1 while
+start 1 while
+while 1 inst
+while 1 end
